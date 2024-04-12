@@ -1,10 +1,8 @@
 # onlygrillz
 
 ## Todo
-- Update desktop view and layout
 - Display posts
 - create posts
-- login
 - Display posts in profile
 - display favortite posts in profile
 - joeai
@@ -12,5 +10,8 @@
 - friends and followers
 - Explore
 - Scrape and add recipes
-- security
-- update UI
+- update UI 
+    - profile
+    - sidebar
+    - footer
+    - For you, following, posts, favorites
